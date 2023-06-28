@@ -1,0 +1,1 @@
+import{m as t,n}from"./index-13fa909d.js";function o(o){return t.post(`${n}/api/comment/list/`,o)}function e(){return t.get(`${n}/api/comment/count/`)}function a(o){return t.post(`${n}/api/comment/update/`,o)}function i(o){return t.post(`${n}/api/comment/delete/`,o)}function m(o){return t.post(`${n}/api/comment/add/`,o)}export{m as a,o as b,i as d,e as g,a as u};

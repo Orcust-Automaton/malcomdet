@@ -1,0 +1,1 @@
+import{E as s}from"./ErrorPage-0a419341.js";import{d as r,o as a,c as e,u as o}from"./index-13fa909d.js";const t=r({name:"ErrorPage"}),c=r({...t,setup:r=>(r,t)=>(a(),e(s,{src:o("/assets/404-ca8b86de.svg")},null,8,["src"]))});export{c as default};
